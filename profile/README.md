@@ -7,3 +7,6 @@ Google Colaboratory Documentation is as its name says, a documentation where you
 
 ## Contribution
 If you want to support this project, be sure to read the contribution repository (comming soon...). Thanks. 
+
+## Repositories
+The repository named `google-colab-docs` contains the source code of the web page. That is, all the code for VitePress, Markdown, etc. And the `colab-docs.github.io` repository contains the documentations but already converted to HTML in order to upload it to GitHub Pages and use it as a web page.
